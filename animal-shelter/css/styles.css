@@ -1,0 +1,26 @@
+.column {
+  width: 30%;
+  margin: 12px;
+  border: 2px solid white;
+  padding: 4px;
+  float:left;
+
+
+}
+.cat1 {
+
+  color: yellow;
+
+}
+
+#cat1 {
+  display:true;
+
+}
+.cat1 span{
+ color:blue;
+}
+.show:focus + .show + #id1{
+  display:block;
+
+}

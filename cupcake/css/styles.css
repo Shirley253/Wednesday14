@@ -1,0 +1,17 @@
+.flashy {
+  color: blue;
+  width: 75%;
+  font-style: italic;
+}
+
+.flashy2 {
+  color: green;
+  width: 75%;
+  font-style: italic;
+}
+.red{
+  color:red;
+}
+.best:active{
+  background-color: red;
+}
